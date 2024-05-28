@@ -1,1 +1,3 @@
-this is a test file to check the local git
+This is a test file from github to the local git
+
+and this line is written in the local machine
