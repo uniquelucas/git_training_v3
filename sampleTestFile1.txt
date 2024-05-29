@@ -1,1 +1,3 @@
 this is sample file 1
+
+this is second line in the first file
